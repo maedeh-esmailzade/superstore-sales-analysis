@@ -84,10 +84,10 @@ superstore-sales-analysis/
 ├── README.md
 │
 ├── PowerBI/
-│   └── Superstore.pbix
+│   └── Super_store.pbix
 │
 ├── SQL/
-│   └── analysis_superstore-queries.sql
+│   └── Super_store_queries.sql
 │
 └── Images/
     ├── dashboard-overview-page.png
